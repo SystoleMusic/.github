@@ -2,6 +2,10 @@
 
 > *The heartbeat of music - where artists thrive and listeners connect.*
 
+# We're looking for people to join us!
+[Apply here.](https://docs.google.com/forms/d/e/1FAIpQLScRryxMr3IhdK77HBoxjhWhYfdr81CLPxz5bvi77PF8PUZ04w/viewform?usp=header) 18 or over applicants only.
+Applications will not be accepted for over a year, we need to get up and running first. (Estimated 2028, apply earlier to be reviewed first.)
+
 ---
 
 ## 🌟 Vision
