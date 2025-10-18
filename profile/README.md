@@ -45,8 +45,8 @@ Every screen is crafted to feel alive, like a pulse - immersive, emotional, and 
 
 - **Frontend**: Svelte + TypeScript (modular, reactive, artist-first UI)  
 - **Backend**: Node.js / PHP hybrid with secure streaming endpoints  
-- **Data Integrity**: Metadata-preserving pipelines (rsync, robocopy, custom parsers)  
-- **Infrastructure**: Cross-platform, Linux + Windows friendly  
+- **Data Integrity**: Metadata-preserving pipelines 
+- **Infrastructure**: Cross-platform, PC friendly, with Mobile apps coming soon!  
 - **Design**: Figma-driven, with iterative artist feedback loops  
 
 ---
